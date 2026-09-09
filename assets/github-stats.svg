@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="148" viewBox="0 0 420 148" role="img" aria-label="GitHub stats">
+  <rect width="420" height="148" rx="14" fill="#0b0d14"/>
+  <text x="28" y="38" fill="#f4c4d0" font-family="Georgia, Times New Roman, serif" font-size="17">GitHub traces</text>
+  <text x="28" y="84" fill="#9a8890" font-family="Segoe UI, Helvetica, sans-serif" font-size="12">Contributions</text>
+  <text x="28" y="114" fill="#f4c4d0" font-family="Segoe UI, Helvetica, sans-serif" font-size="26" font-weight="600">15</text>
+  <text x="168" y="84" fill="#9a8890" font-family="Segoe UI, Helvetica, sans-serif" font-size="12">Public repos</text>
+  <text x="168" y="114" fill="#f4c4d0" font-family="Segoe UI, Helvetica, sans-serif" font-size="26" font-weight="600">4</text>
+  <text x="308" y="84" fill="#9a8890" font-family="Segoe UI, Helvetica, sans-serif" font-size="12">Followers</text>
+  <text x="308" y="114" fill="#e8a0bf" font-family="Segoe UI, Helvetica, sans-serif" font-size="26" font-weight="600">0</text>
+</svg>

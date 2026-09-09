@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/sakura-snow-header.png" alt="樱花飘雪" width="100%" />
+  <img src="https://raw.githubusercontent.com/nakaya-tech/nakaya-tech/main/assets/sakura-snow-header.png" alt="樱花飘雪" width="100%" />
 </div>
 
 <br/>
@@ -27,22 +27,11 @@
 
 ### 放在这里的东西
 
-<a href="https://github.com/nakaya-tech/resume-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nakaya-tech&repo=resume-website&hide_border=true&bg_color=0b0d14&title_color=f4c4d0&icon_color=e8a0bf&text_color=d8c8ce&border_color=2a2030&cache_seconds=86400" alt="雪里的小世界" />
-</a>
-<a href="https://github.com/nakaya-tech/doomed-ruins">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nakaya-tech&repo=doomed-ruins&hide_border=true&bg_color=0b0d14&title_color=f4c4d0&icon_color=e8a0bf&text_color=d8c8ce&border_color=2a2030&cache_seconds=86400" alt="末日废墟" />
-</a>
-<a href="https://github.com/nakaya-tech/wasteland-survival">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nakaya-tech&repo=wasteland-survival&hide_border=true&bg_color=0b0d14&title_color=f4c4d0&icon_color=e8a0bf&text_color=d8c8ce&border_color=2a2030&cache_seconds=86400" alt="废土生存" />
-</a>
-
-<br/>
-
-| 雪里的小世界 | [resume-website](https://github.com/nakaya-tech/resume-website) | 慢慢长出来的个人站 |
-| --- | --- | --- |
-| 末日废墟 | [在线打开](https://nakaya-tech.github.io/doomed-ruins/) | 可以玩的 H5 |
-| 废土生存 | [在线打开](https://nakaya-tech.github.io/wasteland-survival/) | 另一场横版射击 |
+| | | |
+| :---: | :---: | :---: |
+| **雪里的小世界** | **末日废墟** | **废土生存** |
+| [resume-website](https://github.com/nakaya-tech/resume-website) | [在线打开](https://nakaya-tech.github.io/doomed-ruins/) | [在线打开](https://nakaya-tech.github.io/wasteland-survival/) |
+| 慢慢长出来的个人站 | 可以玩的 H5 | 另一场横版射击 |
 
 </div>
 
@@ -52,7 +41,7 @@
 
 ### 一些痕迹
 
-<img src="https://github-readme-stats.vercel.app/api?username=nakaya-tech&show_icons=true&hide_border=true&bg_color=0b0d14&title_color=f4c4d0&icon_color=e8a0bf&text_color=d8c8ce&ring_color=d4849a&cache_seconds=86400" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/nakaya-tech/nakaya-tech/main/assets/github-stats.svg" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=nakaya-tech&hide_border=true&background=0B0D14&ring=D4849A&fire=E8A0BF&currStreakNum=F4C4D0&sideNums=D8C8CE&currStreakLabel=F4C4D0&sideLabels=D8C8CE&dates=9A8890&stroke=2A2030" alt="GitHub streak" />
 
 <br/>
