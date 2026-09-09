@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nakaya-tech/nakaya-tech/main/assets/sakura-snow-header.png" alt="樱花飘雪" width="100%" />
+  <img src="https://raw.githubusercontent.com/nakaya-tech/nakaya-tech/main/assets/sakura-snow-header.gif" alt="樱花飘雪" width="100%" />
 </div>
 
 <br/>
