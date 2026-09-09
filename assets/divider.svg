@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="36" viewBox="0 0 680 36" role="img" aria-label="">
+  <line x1="24" y1="18" x2="292" y2="18" stroke="#e8a0bf" stroke-opacity="0.35" stroke-width="1"/>
+  <line x1="388" y1="18" x2="656" y2="18" stroke="#e8a0bf" stroke-opacity="0.35" stroke-width="1"/>
+  <g transform="translate(340 18)" fill="#f4c4d0">
+    <g opacity="0.95">
+      <ellipse cx="0" cy="-7" rx="3.2" ry="7.2"/>
+      <ellipse cx="0" cy="-7" rx="3.2" ry="7.2" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-7" rx="3.2" ry="7.2" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-7" rx="3.2" ry="7.2" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-7" rx="3.2" ry="7.2" transform="rotate(288)"/>
+      <circle cx="0" cy="0" r="2.2" fill="#fff5f8"/>
+    </g>
+  </g>
+  <circle cx="318" cy="11" r="1.2" fill="#ffffff" opacity="0.7"/>
+  <circle cx="362" cy="24" r="1" fill="#ffffff" opacity="0.55"/>
+</svg>
